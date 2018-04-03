@@ -1,0 +1,26 @@
+Insert a new media
+    title and format
+    no duplicates
+
+Loan media
+    user input title
+    stores the date 
+    saves the info
+
+Return media
+    user input title
+    updates the saved information
+
+Print the library
+    print titles, loan date, loaned to in parenthisis
+    alphabetic 
+
+Remove item
+    gets the title and removes it from file
+   
+Quit
+    saves current library to file
+    before program starts, it checks for file
+    if file exists, program should start with that file
+
+jUnit testing
